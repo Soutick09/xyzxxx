@@ -3,6 +3,6 @@
   "version_name": "2.3",
   "apk_url": "https://anitown4u-apk.top/",
   "update_message": "• Fixed Some Bugs\n• Enhanced Version",
-  "is_mandatory": false,
+  "is_mandatory": true,
   "show_later": true
 }
